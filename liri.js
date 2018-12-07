@@ -27,8 +27,11 @@ function runCommand(command){
     -----------------------------------------------------------------------------
       spotify-this-song    ->  Add a song name after this     ->  song _______
                                command and get its info
-       movie-this           ->  Add a movie name after this    ->  movie _______
+       movie-this          ->  Add a movie name after this    -> movie _______
                                command and get its info
+       concert-this        ->  Add a concert name after this -> concert_______
+                               command and get its info
+
 
     `);  
   }

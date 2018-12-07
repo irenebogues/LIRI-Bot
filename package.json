@@ -1,7 +1,7 @@
 {
   "name": "liri-bot",
   "version": "1.0.0",
-  "description": "Assignment Week 12",
+  "description": "If you want to clone the app from github and run it yourself, you would need to supply your own .env file for it to work.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/irenebogues/LIRI-Bot/issues"
   },
-  "homepage": "https://github.com/irenebogues/LIRI-Bot#readme"
+  "homepage": "https://github.com/irenebogues/LIRI-Bot#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.2.0",
+    "inquirer": "^6.2.1",
+    "node-spotify-api": "^1.0.7"
+  },
+  "devDependencies": {},
+  "keywords": []
 }

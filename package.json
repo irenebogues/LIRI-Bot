@@ -1,0 +1,19 @@
+{
+  "name": "liri-bot",
+  "version": "1.0.0",
+  "description": "Assignment Week 12",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irenebogues/LIRI-Bot.git"
+  },
+  "author": "Irene Bogues",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/irenebogues/LIRI-Bot/issues"
+  },
+  "homepage": "https://github.com/irenebogues/LIRI-Bot#readme"
+}

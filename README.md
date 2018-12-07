@@ -13,11 +13,10 @@ To create a SIRI-like application that would execute various commands, using Nod
 SPOTIFY_ID=your-spotify-id
 SPOTIFY_SECRET=your-spotify-secret
 
-#Built With
+# Built With
 * JavaScript
-* NodeJS
-* Spotify, OMDB API's
+* NodeJS Packages
+* Spotify, OMDB, BandsinTown API's
 
-#Author
-
+# Author
 * Irene Bogues

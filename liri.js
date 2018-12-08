@@ -60,11 +60,11 @@ function spotifyThis () {
             return console.log('Error occurred: ' + err);
           }
            song = `
-      ┌ls-------------------------------------------------------------------------
-      | Song: '${data.tracks.items[0].name}' by ${data.tracks.items[0].artists[0].name}
-      | From the Album: ${data.tracks.items[0].album.name}
-      | Link to song: ${data.tracks.items[0].href}
-      └--------------------------------------------------------------------------
+      ┌----------------------------------------------------------------------------------- 
+      | Song: '${data.tracks.items[0].name}' by ${data.tracks.items[0].artists[0].name}   
+      | From the Album: ${data.tracks.items[0].album.name}                                
+      | Link to song: ${data.tracks.items[0].href}                                        
+      └-----------------------------------------------------------------------------------
             `;
           
           console.log(song)

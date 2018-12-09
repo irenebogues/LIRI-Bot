@@ -23,4 +23,5 @@ SPOTIFY_SECRET=your-spotify-secret
 
 # Screenshots
 
-<img src ="images/screenshot01.png" width="100">
+<img src ="images/screenshot01.png" width="100" height="100">
+<img src ="images/screenshot02.png" width="100" height="100">

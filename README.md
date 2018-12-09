@@ -20,3 +20,7 @@ SPOTIFY_SECRET=your-spotify-secret
 
 # Author
 * Irene Bogues
+
+# Screenshots
+
+<img src ="images/screenshot01.png" width="100">

@@ -8,8 +8,8 @@ To create a SIRI-like application that would execute various commands, using Nod
 * To find, research and implement npm packages.
 * To install npm packages and save them to the package.JSON file.
 
-#Installation and Set-Up
-# Spotify API keys
+# Installation and Set-Up
+1. Spotify API keys
 SPOTIFY_ID=your-spotify-id
 SPOTIFY_SECRET=your-spotify-secret
 
@@ -18,10 +18,11 @@ SPOTIFY_SECRET=your-spotify-secret
 * NodeJS Packages
 * Spotify, OMDB, BandsinTown API's
 
+
 # Author
 * Irene Bogues
 
-# Screenshots
 
+# Screenshots
 <img src ="images/screenshot01.png" width="100" height="100">
 <img src ="images/screenshot02.png" width="100" height="100">
